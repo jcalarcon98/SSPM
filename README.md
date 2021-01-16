@@ -38,8 +38,16 @@ Contains all assets needed in the UI designer.
 
 This Project was carried out by:
 
-| [<img src="https://avatars1.githubusercontent.com/u/56373098?s=96&v=4" width="100px;" alt="toofff"/><br /><sub><b>Jean Carlos Alarcón O.</b></sub>](https://github.com/jcalarcon98)<br />
-| [<img src="https://avatars3.githubusercontent.com/u/41339889?s=460&v=4" width="100px;" alt="toofff"/><br /><sub><b>Edgar Andrés Soto R.</b></sub>](https://github.com/EdansRocks)<br />
+<div style="display:flex">
+  <div style="margin-right:10px">
+    | <a href="https://github.com/jcalarcon98"><img style="border-radius:50%" src="https://avatars1.githubusercontent.com/u/56373098?s=96&v=4" width="100px;" alt="JCAO"/><br /><sub><b>Jean Carlos Alarcón O.</b></sub></a>
+  </div>
+  
+  <div>
+    | <a href="https://github.com/EdansRocks"><img style="border-radius:50%" src="https://avatars3.githubusercontent.com/u/41339889?s=460&v=4" width="100px;" alt="EASR"/><br /><sub><b>Edgar Andrés Soto R.</b></sub></a>
+  </div>
+</div>
+
 
 ## License 📘
 
