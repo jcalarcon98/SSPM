@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://unl.edu.ec"><img src="https://unl.edu.ec/sites/default/files/inline-images/logogris.png" alt="Markdownify" width="300"></a>
+  <a href="https://unl.edu.ec"><img src="https://unl.edu.ec/sites/default/files/inline-images/logogris.png" alt="Universidad Nacional de Loja" width="300"></a>
   <br>
   Seguimiento al sílabo y Plan de mejoras (SSPM).
   <br>
@@ -38,8 +38,8 @@ Contains all assets needed in the UI designer.
 
 This Project was carried out by:
 
-| [<img src="https://avatars1.githubusercontent.com/u/56373098?s=96&v=4" width="100px;" alt="toofff"/><br /><sub><b>Jean Carlos Alarcón O.</b></sub>](http://www.yanoucrea.fr)<br />
-| [<img src="https://avatars1.githubusercontent.com/u/56373098?s=96&v=4" width="100px;" alt="toofff"/><br /><sub><b>Jean Carlos Alarcón O.</b></sub>](http://www.yanoucrea.fr)<br />
+| [<img src="https://avatars1.githubusercontent.com/u/56373098?s=96&v=4" width="100px;" alt="toofff"/><br /><sub><b>Jean Carlos Alarcón O.</b></sub>](https://github.com/jcalarcon98)<br />
+| [<img src="https://avatars3.githubusercontent.com/u/41339889?s=460&v=4" width="100px;" alt="toofff"/><br /><sub><b>Edgar Andrés Soto R.</b></sub>](https://github.com/EdansRocks)<br />
 
 ## License 📘
 
