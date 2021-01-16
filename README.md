@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://unl.edu.ec"><img src="https://unl.edu.ec/sites/default/files/inline-images/logogris.png" alt="Universidad Nacional de Loja" width="300"></a>
+  <a href="https://unl.edu.ec"><img src="https://siaaf.unl.edu.ec/static/img/logo.png" alt="Universidad Nacional de Loja" width="300"></a>
   <br>
   Seguimiento al sílabo y Plan de mejoras (SSPM).
   <br>
