@@ -51,4 +51,4 @@ This Project was carried out by:
 
 ## License 📘
 
-The SSSPM module is under terms of the [MIT License](LICENSE).
+SSPM module is under terms of the [MIT License](LICENSE).
