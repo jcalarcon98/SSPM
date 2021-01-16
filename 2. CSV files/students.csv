@@ -1,45 +1,49 @@
 Nombres,Apellidos,Ciclo,Paralelo,Correo,Nota
-Jean Carlos,Alarcón Ochoa,9,A,jean.alarcon@unl.edu.ec,9.99, cabron,
-Edgar Andŕes,Soto Rodriguez,9,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,9,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,9,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,9,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,9,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,8,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,8,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,8,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,8,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,8,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,8,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,7,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,7,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,7,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,7,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,7,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,7,A,edgar.soto@unl.edu.ec,9.99
-
-ciclos = [1,2,3,4,5,6,7,8,9,10];
-paraelos = [A,B,C,D,E,F,G,H];
-
-
-
-verificar tamañó arreglo === 6 //
-
-ciclos.includes(array[2]);
-paralelos.includes(array[3]);
-email.endsIn(@unl.edulec);
-parseFloat(array[4]) === typeOf(Float);
-
-[Jean Carlos,Alarcón Ochoa,9,A,jean.alarcon@unl.edu.ec,9.99,]
-
-// Controlar que el estudiante no se repita.
-
 Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,10,A,edgar.soto@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,10,A,edgar.soto@unl.edu.ec,9.99
-Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon@unl.edu.ec,9.99
-Edgar Andŕes,Soto Rodriguez,10,A,edgar.soto@unl.edu.ec,9.99
-
-
-
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon1@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon2@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon3@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon4@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon5@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon6@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,10,A,jean.alarcon7@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto1@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto2@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto3@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto4@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto5@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto6@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,10,B,edgar.soto7@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon1@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon2@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon3@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon4@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon5@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon6@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,9,A,jean1.alarcon7@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto1@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto2@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto3@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto4@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto5@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto6@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,9,B,edgar1.soto7@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon1@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon2@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon3@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon4@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon5@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon6@unl.edu.ec,9.99
+Jean Carlos,Alarcón Ochoa,8,A,jean2.alarcon7@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto1@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto2@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto3@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto4@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto5@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto6@unl.edu.ec,9.99
+Edgar Andŕes,Soto Rodriguez,8,B,edgar2.soto7@unl.edu.ec,9.99
