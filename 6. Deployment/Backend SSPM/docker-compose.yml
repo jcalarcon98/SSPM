@@ -7,3 +7,5 @@ services:
     image: 'jcalarcon/backend-sspm'
     ports:
       - 3000:3000
+    volumes:
+      - ./reports:/reports
