@@ -1,6 +1,11 @@
-Denominacion,Docente,Correo Docente,Ciclo
-Control Automatizado Asistido por computador,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10
-Sistemas Expertos,Oscar Cumbicus,correoprueba@unl.edu.ec,10
-Ingeniería de Software,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10
-Ingeniería de Software 1,Oscar Cumbicus,correoprueba@unl.edu.ec,10
-Contabilidad,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10
+Denominacion,Docente,Correo Docente,Ciclo,Paralelo
+Control Automatizado Asistido por computador,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,A
+Sistemas Expertos,Oscar Cumbicus,correoprueba@unl.edu.ec,10,A
+Ingeniería de Software,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,A
+Ingeniería de Software 1,Oscar Cumbicus,correoprueba@unl.edu.ec,10,A
+Contabilidad,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,A
+Control Automatizado Asistido por computador,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,B
+Sistemas Expertos,Oscar Cumbicus,correoprueba@unl.edu.ec,10,B
+Ingeniería de Software,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,B
+Ingeniería de Software 1,Oscar Cumbicus,correoprueba@unl.edu.ec,10,B
+Contabilidad,César Fernando Iñiguez Pineda,correoprueba@unl.edu.ec,10,B
