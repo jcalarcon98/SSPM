@@ -1,0 +1,9 @@
+# Use tech_user/secret as user/password credentials
+version: '3'
+
+services:
+  backend-sspm:
+    container_name: backend
+    image: 'jcalarcon/backend-sspm'
+    ports:
+      - 3000:3000
