@@ -5,7 +5,7 @@ services:
   db:
     image: postgres:11
     environment:
-      POSTGRES_PASSWORD: example
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     restart: always
     command:
       - -c
@@ -13,20 +13,21 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - ./postgres-data:/var/lib/postgresql/data
+      - ./${PGDATA}:/var/lib/postgresql/data
   bonita:
-    image: bonita
+    image: bonita:2021.1
     ports:
       - 80:8080
     environment:
-      - POSTGRES_ENV_POSTGRES_PASSWORD=example
+      - POSTGRES_ENV_POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
       - DB_VENDOR=postgres
       - DB_HOST=db
-      - TENANT_LOGIN=tech_user
-      - TENANT_PASSWORD=secret
-      - PLATFORM_LOGIN=pfadmin
-      - PLATFORM_PASSWORD=pfsecret
+      - TENANT_LOGIN=${BONITA_TENANT_LOGIN}
+      - TENANT_PASSWORD=${BONITA_TENANT_SECRET}
+      - PLATFORM_LOGIN=${BONITA_PLATFORM_LOGIN}
+      - PLATFORM_PASSWORD=${BONITA_PLATFORM_PASSWORD}
       - REST_API_DYN_AUTH_CHECKS=false
+      - TZ=America/Guayaquil
     restart: on-failure:2
     depends_on:
       - db
